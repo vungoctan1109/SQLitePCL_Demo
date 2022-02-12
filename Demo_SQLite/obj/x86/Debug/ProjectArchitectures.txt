@@ -1,0 +1,1 @@
+C:\Users\Admin\source\repos\Demo_SQLite\Demo_SQLite\Demo_SQLite.csproj;x86
